@@ -1,8 +1,7 @@
 # Cleaning-Data-in-Python
-Exploring Airbnb Market Trends
+***Exploring Airbnb Market Trends***
 
 ![nyc](https://github.com/Said0429/Cleaning-Data-in-Python/assets/116446264/339c59d0-a94e-415f-aef7-bff9f3e70466)
-
 
 
 **data/airbnb_price.csv** This is a CSV file containing data on Airbnb listing prices and locations.
